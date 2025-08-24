@@ -3,6 +3,7 @@ Vivek's Photography Website
 
 A simple and elegant Photography Website created using HTML and CSS.
 The project showcases a sidebar navigation menu with smooth transitions, social media icons, and a responsive design.
+***
 
 📸 Features
 
@@ -15,6 +16,7 @@ The project showcases a sidebar navigation menu with smooth transitions, social 
 📱 Responsive design (works on desktop & mobile)
 
 🔗 Social media integration with Font Awesome icons
+***
 
 🚀 Technologies Used
 
@@ -25,6 +27,7 @@ CSS3
 Google Fonts (Roboto, Poppins)
 
 Font Awesome Icons
+***
 
 🛠️ Setup Instructions
 
@@ -35,13 +38,19 @@ Place all files in a single folder.
 Make sure to keep your photo.jpg (background image) in the same folder.
 
 Open index.html in your browser.
+***
 
 📂 Project Structure
 project-folder/
 │── index.html          # Main HTML file
+
 │── miniproject.css     # CSS styles
+
 │── photo.jpg           # Background image
+
 │── README.md           # Project documentation
+
+___
 
 🎯 How It Works
 
@@ -52,14 +61,8 @@ The sidebar contains links: Gallery, Shortcuts, Exhibits, Events, Store, Contact
 Social media icons at the bottom provide quick links.
 
 Background image (photo.jpg) creates a professional photography look.
+___
 
-🌟 Future Enhancements
-
-Add an image Gallery section.
-
-Include a Contact form.
-
-Make the sidebar items dynamically load content.
 
 📧 Author
 
