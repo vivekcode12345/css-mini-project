@@ -13,7 +13,7 @@ Check out the live project here:
 
 ## 🖼 Screenshot
 ![Homepage Screenshot](screenshot.png)  
-*(Upload a screenshot of your site as `screenshot.png` in the repository)*
+
 
 ---
 
