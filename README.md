@@ -1,70 +1,45 @@
-# css-mini-project
-Vivek's Photography Website
+# Photography Portfolio Website
 
-A simple and elegant Photography Website created using HTML and CSS.
-The project showcases a sidebar navigation menu with smooth transitions, social media icons, and a responsive design.
-***
+A modern, responsive photography portfolio website built using **HTML & CSS**.  
+Perfect for showcasing your photos, portfolio, or creative work.
 
-📸 Features
+---
 
-🎨 Clean and modern UI design
+## 🔗 Live Demo
+Check out the live project here:  
+[🌐 Live Demo](https://vivekcode12345.github.io/css-mini-project/)
 
-📂 Sidebar menu with toggle effect
+---
 
-⚡ Smooth transitions and hover animations
+## 🖼 Screenshot
+![Homepage Screenshot](screenshot.png)  
+*(Upload a screenshot of your site as `screenshot.png` in the repository)*
 
-📱 Responsive design (works on desktop & mobile)
+---
 
-🔗 Social media integration with Font Awesome icons
-***
+## ✨ Features
+- Responsive sidebar navigation
+- Modern, clean UI design
+- Smooth hover effects and transitions
+- Font Awesome icons for social links
+- Fully responsive on desktop and mobile
 
-🚀 Technologies Used
+---
 
-HTML5
+## 🛠 Tech Stack
+- HTML5  
+- CSS3  
+- Font Awesome (for icons)
 
-CSS3
+---
 
-Google Fonts (Roboto, Poppins)
+## 🚀 How to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vivekcode12345/css-mini-project.git
+2. Open index.html in your browser.
 
-Font Awesome Icons
-***
-
-🛠️ Setup Instructions
-
-Clone/download the project files.
-
-Place all files in a single folder.
-
-Make sure to keep your photo.jpg (background image) in the same folder.
-
-Open index.html in your browser.
-***
-
-📂 Project Structure
-project-folder/
-│── index.html          # Main HTML file
-
-│── miniproject.css     # CSS styles
-
-│── photo.jpg           # Background image
-
-│── README.md           # Project documentation
-
-___
-
-🎯 How It Works
-
-The hamburger button (☰) opens the sidebar.
-
-The sidebar contains links: Gallery, Shortcuts, Exhibits, Events, Store, Contact, Feedback.
-
-Social media icons at the bottom provide quick links.
-
-Background image (photo.jpg) creates a professional photography look.
-___
-
-
-📧 Author
+   👤 Author
 
 Vivek Verma
-A beginner-friendly CSS project showcasing a simple and creative photography portfolio layout.
+GitHub: @vivekcode12345
